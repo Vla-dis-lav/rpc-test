@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["main.js"],"sourcesContent":["window.Jupiter.init({\r\n  displayMode: \"integrated\",\r\n  integratedTargetId: \"integrated-terminal\",\r\n  endpoint: \"https://api.mainnet-beta.solana.com\",\r\n});"],"file":"main.js"}
